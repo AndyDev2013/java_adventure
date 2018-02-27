@@ -1,9 +1,9 @@
 ![Screenshot](http://puu.sh/mrchB/456a637ec6.png)
 
-# java_adventure
+# adventure
 During my first year to get a head start and explore how to use objects I created a small text adventure game. It's pretty primitive but was fun to make.
 
-#Installation Notes
+# Installation Notes
 
 This is a small java program. So to run it you need java installed
 and have set up the enviroment variable.
